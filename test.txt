@@ -2,5 +2,7 @@ Sample
 
 
 Text
+Remote
+Boii
 Local
 Boiii
